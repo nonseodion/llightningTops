@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #570202;
+    background-color: #e92b2b;
     padding: 0 32%;   
     font-family: U8,sans-serif;
 }
@@ -11,7 +11,7 @@ header, p{
     margin-top: 0;
 }
 p{
-    color: #570202;
+    color: #e92b2b;
     font-size: x-large;
     font-weight: 900;
 }
@@ -45,7 +45,7 @@ input, select, option{
     color: #1a202c;
     background-color: #edf2f7;
     width: 100%;
-    padding: auto 10px;
+    padding: 1rem
 }
 
 input[type=submit]{
