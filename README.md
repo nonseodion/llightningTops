@@ -1,2 +1,2 @@
-# llightningTops
-Service to top up ur network with wallets.africa api
+# LightningTops
+This service tops up Nigerian mobile networks using the wallets.africa API
