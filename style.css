@@ -45,12 +45,14 @@ input, select, option{
     color: #1a202c;
     background-color: #edf2f7;
     width: 100%;
+    padding: auto 10px;
 }
 
 input[type=submit]{
     color: white;
     background-color: green;
     border-radius: 5px 5px 5px 0;
+    margin-top: 20px;
 }
 
 
